@@ -1,3 +1,4 @@
+UPDATE
 create table students(
 Faculty_number int not null,
 name varchar (20) not null,
